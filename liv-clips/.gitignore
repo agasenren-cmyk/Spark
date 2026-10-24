@@ -1,0 +1,8 @@
+# Footage and renders stay local; only the log, analyses and post sheets are tracked.
+raw/*
+!raw/.gitkeep
+out/*.mp4
+out/*.jpg
+out/*.png
+out/*.wav
+__pycache__/
